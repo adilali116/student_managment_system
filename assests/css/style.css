@@ -1,0 +1,45 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #F8FAFC;
+}
+
+.login-bg {
+  background: linear-gradient(135deg, #4F46E5, #22C55E);
+}
+
+.login-card {
+  background: #fff;
+  padding: 30px;
+  border-radius: 15px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.sidebar {
+  width: 240px;
+  background: #0F172A;
+  min-height: 100vh;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  color: #fff;
+  padding: 15px 20px;
+  cursor: pointer;
+}
+
+.sidebar ul li:hover {
+  background: #4F46E5;
+}
+
+.stat-card {
+  padding: 20px;
+  border-radius: 12px;
+  background: #4F46E5;
+  color: white;
+  text-align: center;
+}
